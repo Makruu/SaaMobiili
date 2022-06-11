@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Täällä tehdään havaintoja</string>
+    <string name="uusi_havainto">Uusi</string>
+
+    <!-- Uuden havainnon lisäyksen tekstit -->
+    <string name="add_observation_title">Lisää havainto</string>
+    <string name="add_observation_temperature">Lämpötila (°C)</string>
+    <string name="add_observation_humidity">Ilmankosteus (%)</string>
+    <string name="add_observation_air_pressure">Ilmanpaine (Pa)</string>
+    <string name="add_observation_open_word">Vapaa sana</string>
+    <string name="submit_observation">Tallenna</string>
+    <string name="fetch_values">Ruuvi</string>
+
+    <!-- Muita tekstejä -->
+    <string name="observation_datetime">Havainto %1$s%2$s%3$s klo %4$s</string>
+    <string name="observation_days">%1$s%2$s klo %3$s</string>
+    <string name="observation_placeholder">Havainto</string>
+</resources>
